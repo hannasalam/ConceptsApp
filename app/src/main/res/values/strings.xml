@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ComposeLearn</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_broadcast_recievers">BroadcastRecievers</string>
+    <string name="title_activity_services">Services</string>
+    <string name="title_activity_content_provider">ContentProvider</string>
+    <string name="title_activity_contacts_provider">ContactsProvider</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_fragment_life_cycle">FragmentLifeCycle</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_activity_states">States</string>
+    <string name="title_activity_view_model">ViewModel</string>
+</resources>
